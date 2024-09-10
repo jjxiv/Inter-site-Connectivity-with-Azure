@@ -7,7 +7,7 @@ Inter-site Connectivity of Virtual Machines with Azure Virtual Network Peering
 <div align="center">
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge" alt="Microsoft Azure">
     <img src="https://img.shields.io/badge/HashiCorp-Terraform-purple?style=for-the-badge" alt="terraform">
-    <img src="https://img.shields.io/badge/Microsoft-NSG-47e5ff?style=for-the-badge" alt="Microsoft NSG"><br>
+    <img src="https://img.shields.io/badge/Microsoft-Network_Security_Group-47e5ff?style=for-the-badge" alt="Microsoft NSG"><br>
     <img src="https://img.shields.io/badge/Microsoft-Resource_Group-47e5ff?style=for-the-badge" alt="Microsoft RG">
     <img src="https://img.shields.io/badge/Microsoft-Virtual_Networks-93bf61?style=for-the-badge" alt="Microsoft Vnet"><br>
     <img src="https://img.shields.io/badge/Microsoft-Virtual_Machines-70e2fe?style=for-the-badge" alt="Microsoft VM">
@@ -16,7 +16,7 @@ Inter-site Connectivity of Virtual Machines with Azure Virtual Network Peering
 
 ## Description
 
-This project involves implementing an on-premises infrastructure in Azure for an organization with three datacenters connected via a mesh wide-area network. The setup includes two offices in one Azure region (New York and Boston) and one office in another region (Seattle), all requiring seamless connectivity for information sharing. The focus of this simulation is on establishing the network connectivity between the offices, rather than creating individual Azure resources.
+This project involves implementing a cloud infrastructure in Azure for an organization with three datacenters connected via a mesh wide-area network. The setup includes two offices in one Azure region (West Europe) and one office in another region (North Central US), all requiring seamless connectivity for information sharing. The focus of this simulation is on establishing the network connectivity between the offices, rather than creating individual Azure resources.
 
 ## Architecture Diagram
 
