@@ -7,9 +7,9 @@ Inter-site Connectivity of Virtual Machines with Azure Virtual Network Peering
 <div align="center">
     <img src="https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge" alt="Microsoft Azure">
     <img src="https://img.shields.io/badge/HashiCorp-Terraform-purple?style=for-the-badge" alt="terraform">
-    <img src="https://img.shields.io/badge/Microsoft-NSG-47e5ff?style=for-the-badge" alt="Microsoft NSG"><br></br>
+    <img src="https://img.shields.io/badge/Microsoft-NSG-47e5ff?style=for-the-badge" alt="Microsoft NSG"><br>
     <img src="https://img.shields.io/badge/Microsoft-Resource_Group-47e5ff?style=for-the-badge" alt="Microsoft RG">
-    <img src="https://img.shields.io/badge/Microsoft-Virtual_Networks-93bf61?style=for-the-badge" alt="Microsoft Vnet">
+    <img src="https://img.shields.io/badge/Microsoft-Virtual_Networks-93bf61?style=for-the-badge" alt="Microsoft Vnet"><br>
     <img src="https://img.shields.io/badge/Microsoft-Virtual_Machines-70e2fe?style=for-the-badge" alt="Microsoft VM">
     <img src="https://img.shields.io/badge/Windows-Firewall-red?style=for-the-badge" alt="windows Firewall">
 </div>
