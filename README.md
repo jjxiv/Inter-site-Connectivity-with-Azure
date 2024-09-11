@@ -16,7 +16,7 @@ Inter-site Connectivity of Virtual Machines with Azure Virtual Network Peering
 
 ## Description
 
-This project involves implementing a cloud infrastructure in Azure for an organization with three datacenters connected via a mesh wide-area network. The setup includes two offices in one Azure region (West Europe) and one office in another region (North Central US), all requiring seamless connectivity for information sharing. The focus of this simulation is on establishing the network connectivity between the offices, rather than creating individual Azure resources.
+This project involves implementing a cloud infrastructure in Azure for an organization with three VM datacenters connected via a mesh wide-area network. The setup includes two offices in one Azure region (West Europe) and one office in another region (North Central US), all requiring seamless connectivity for information sharing. The focus of this simulation is on establishing the network connectivity between the offices, rather than creating individual Azure resources.
 
 ## Architecture Diagram
 
